@@ -54,21 +54,27 @@ liri.js can take in the following commands, one at a time:
 Screen shots showing execution of liri.js:
 
 1.  concert-this:
+
     ![Image of concert-this](images/concert-this.PNG)
 
 2.  spotify-this:
+
     ![Image of spotify-this-song](images/spotify-this-song.PNG)
 
 3.  spotify-this with no song:
+
     ![Image of spotify-this-song with no song entered](images/no-song.PNG)
 
 4.  movie-this:
+
     ![Image of movie-this](images/movie-this.PNG)
     
 5.  movie-this with no title:
+
     ![Image of spotify-this-song with no movie entered](images/no-movie.PNG)
 
 6.  do-what-it-says:
+
     ![Image of do-what-it-says](images/movie-this.PNG)
 
 ## Author
